@@ -1,0 +1,13 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#hangman {
+  background-color: lightpink;
+}
+
+line,
+circle {
+  stroke: black;
+  fill: none;
+}
